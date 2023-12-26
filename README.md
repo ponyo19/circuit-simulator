@@ -1,7 +1,7 @@
 # Circuit Simulator
 
 ## Goals
-This project aims to build a basic Circuit simulator. It is also a learning experience for me to learn the essentials of OOP, Cmake, relevant libraries, software design and testing.
+This project aims to build a basic Circuit simulator. It is also a learning experience for me to learn the essentials of OOP with C++, Cmake, relevant libraries, software design and testing.
 
 ## Core features
 - Interactive graphical circuit design with basic electronics component.
